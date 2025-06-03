@@ -1,4 +1,4 @@
-import"https://esm.sh/onigasm@2.2.5";import"https://esm.sh/monaco-textmate@3.0.1";import"https://esm.sh/monaco-editor-textmate@4.0.0";import*as Ie from"https://esm.sh/css-tree@3.1.0";import*as U from"https://esm.sh/qingkuai-language-service@1.0.6";import"https://esm.sh/vscode-languageserver-types@3.17.5";import*as qr from"https://esm.sh/qingkuai-language-service@1.0.6/adapters";var ln=`/// <reference lib="dom" />
+import"https://esm.sh/onigasm@2.2.5";import"https://esm.sh/monaco-textmate@3.0.1";import"https://esm.sh/monaco-editor-textmate@4.0.0";import*as Ie from"https://esm.sh/css-tree@3.1.0";import*as U from"https://esm.sh/qingkuai-language-service";import"https://esm.sh/vscode-languageserver-types@3.17.5";import*as qr from"https://esm.sh/qingkuai-language-service/adapters";var ln=`/// <reference lib="dom" />
 
 type GeneralFunc = (...args: any) => any
 type AnyObject = Record<AnyObjectKey, any>
